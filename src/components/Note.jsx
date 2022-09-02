@@ -6,7 +6,7 @@ const Note = ({id , text, date, handleDeleteNote}) => {
       <span>{text}</span>
       <div className='note-footer'>
         <small>{date}</small>
-        <button className='save' onClick={()=>handleDeleteNote(id)}>Delete</button>
+        <button className='delete-btn' onClick={()=>handleDeleteNote(id)}>Delete</button>
       </div>
     </div>
   )
