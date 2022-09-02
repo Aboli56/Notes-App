@@ -70,14 +70,6 @@ textarea:focus{
     background-color: #f3f8aa;
     cursor: pointer;
 }
-.delete-icon{
-    cursor: pointer;
-    font-size: 25px;
-}
-.delete-icon:hover{
-   font-size: 26px;
-   color: red;
-}
 .search{
     display: flex;
     align-items: center;
