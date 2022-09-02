@@ -70,6 +70,17 @@ textarea:focus{
     background-color: #f3f8aa;
     cursor: pointer;
 }
+.delete-btn{
+     background-color: #efefef; 
+    border: none;
+    border-radius: 15px;
+    padding: 5px 10px 5px 10px;
+}
+.delete-btn:hover{
+    background-color: #f74848;
+    color:white;
+    cursor:pointer;
+}
 .search{
     display: flex;
     align-items: center;
