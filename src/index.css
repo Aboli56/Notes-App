@@ -19,7 +19,7 @@
     color: white;
 }
 .note{
-    background-color: burlywood;
+    background-color: rgb(207, 233, 248);
     border-radius: 10px;
     padding: 1rem;
     min-height: 170px;
@@ -54,7 +54,7 @@
 textarea{
     resize: none;
     border: none;
-    background-color: #rgb(207, 233, 248);
+    background-color: rgb(207, 233, 248);
 }
 textarea:focus{
     outline: none;
