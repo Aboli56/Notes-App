@@ -69,6 +69,7 @@ textarea:focus{
 .save:hover{
     background-color: rgb(87, 153, 96);
     cursor: pointer;
+    color:white;
 }
 .delete-btn{
      background-color: #efefef; 
