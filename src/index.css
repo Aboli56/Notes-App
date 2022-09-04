@@ -67,7 +67,7 @@ textarea:focus{
     
 }
 .save:hover{
-    background-color:rgb(170, 233, 179);
+    background-color:rgb(49, 150, 64);
     cursor: pointer;
     color:white;
 }
