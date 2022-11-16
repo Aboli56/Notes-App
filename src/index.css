@@ -91,6 +91,9 @@ textarea:focus{
     height: 2em;
     margin-bottom: 1.5em;
 }
+.search i{
+  padding: 15px;
+}
 .search input{
     border: none;
     background-color: rgb(233,233,233);
